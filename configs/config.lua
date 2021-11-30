@@ -5,6 +5,8 @@ Config.RequiredCops = 1
 -- Call Police on the start of the minigame
 Config.CallPDonStart = true
 
+Config.TargetName = "luci-target" -- Has to match your resource name folder (MUST HAVE ADDTARGETMODEL EXPORT)
+
 Config.BlackMoney = false
 Config.UseProgressBar = true
 
