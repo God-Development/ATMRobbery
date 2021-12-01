@@ -1,5 +1,7 @@
 # ATM Robbery forked from nb_atmrob
 
+needa update this one so if you download this it wont work
+
 this was not my creation, however a lot of edits went into it. Enjoy :)
 
 
