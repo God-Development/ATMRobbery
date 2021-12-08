@@ -6,4 +6,6 @@ mythic_notify -> https://github.com/JayMontana36/mythic_notify
 mythic_progbar -> https://github.com/JayMontana36/mythic_progbar
 memorygame -> https://cdn.discordapp.com/attachments/917127437203169280/917448903098499142/memorygame.zip
 
+Join my discord! -> https://discord.gg/tUHgahtP3t
+
 Preview -> https://streamable.com/o12pad
