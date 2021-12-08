@@ -1,11 +1,5 @@
-# ATM Robbery forked from nb_atmrob
-
-this was not my creation, however a lot of edits went into it. Enjoy :)
-
+# ATM Robbery
 Made and tested in ESX Legacy, I don't plan on doing a QB Version, you are welcome to do so yourself 
-
-Edited / Fucked with shit by Lucifer#3333
-
 
 DEPENDENCIES:
 mythic_notify -> https://github.com/JayMontana36/mythic_notify
