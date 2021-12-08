@@ -12,4 +12,4 @@ mythic_notify -> https://github.com/JayMontana36/mythic_notify
 mythic_progbar -> https://github.com/JayMontana36/mythic_progbar
 memorygame -> https://cdn.discordapp.com/attachments/917127437203169280/917448903098499142/memorygame.zip
 
-Protected by GNU License v3.0 (Must be open sourced at all times so no you cannot sell this)
+Preview -> https://streamable.com/o12pad
